@@ -1,0 +1,205 @@
+--- !ruby/object:Biblioteca
+livros:
+  247: !ruby/object:Livro
+    autor: Mauricio Aniche
+    numero_paginas: '123454'
+    categoria: Suspense
+    valor: 198.89
+    titulo: ''
+  248: !ruby/object:Livro
+    autor: Tárcio Zemel
+    numero_paginas: '452565'
+    categoria: Biografia
+    valor: 53.21
+    titulo: ''
+  249: !ruby/object:Livro
+    autor: Rogério Amaral
+    numero_paginas: '1111'
+    categoria: Suspense
+    valor: 12.9
+    titulo: ''
+  250: !ruby/object:Livro
+    autor: Alberto de Souza
+    numero_paginas: '1232'
+    categoria: Biografia
+    valor: 135.99
+    titulo: ''
+
+--- !ruby/object:Biblioteca
+livros:
+  247: !ruby/object:Livro
+    autor: Mauricio Aniche
+    numero_paginas: '123454'
+    categoria: Suspense
+    valor: 198.89
+    titulo: ''
+  248: !ruby/object:Livro
+    autor: Tárcio Zemel
+    numero_paginas: '452565'
+    categoria: Biografia
+    valor: 53.21
+    titulo: ''
+  249: !ruby/object:Livro
+    autor: Rogério Amaral
+    numero_paginas: '1111'
+    categoria: Suspense
+    valor: 12.9
+    titulo: ''
+  250: !ruby/object:Livro
+    autor: Alberto de Souza
+    numero_paginas: '1232'
+    categoria: Biografia
+    valor: 135.99
+    titulo: ''
+
+--- !ruby/object:Biblioteca
+livros:
+  247: !ruby/object:Livro
+    valor: 198.89
+    titulo: ''
+    autor: Mauricio Aniche
+    numero_paginas: '123454'
+    categoria: Suspense
+  248: !ruby/object:Livro
+    valor: 53.21
+    titulo: ''
+    autor: Tárcio Zemel
+    numero_paginas: '452565'
+    categoria: Biografia
+  249: !ruby/object:Livro
+    valor: 12.9
+    titulo: ''
+    autor: Rogério Amaral
+    numero_paginas: '1111'
+    categoria: Suspense
+  250: !ruby/object:Livro
+    valor: 135.99
+    titulo: ''
+    autor: Alberto de Souza
+    numero_paginas: '1232'
+    categoria: Biografia
+
+--- !ruby/object:Biblioteca
+livros:
+  247: !ruby/object:Livro
+    valor: 198.89
+    titulo: ''
+    desconto: 1.0
+    autor: Mauricio Aniche
+    numero_paginas: '123454'
+    categoria: Suspense
+  248: !ruby/object:Livro
+    valor: 53.21
+    titulo: ''
+    desconto: 1.0
+    autor: Tárcio Zemel
+    numero_paginas: '452565'
+    categoria: Biografia
+  249: !ruby/object:Livro
+    valor: 12.9
+    titulo: ''
+    desconto: 1.0
+    autor: Rogério Amaral
+    numero_paginas: '1111'
+    categoria: Suspense
+  250: !ruby/object:Livro
+    valor: 135.99
+    titulo: ''
+    desconto: 1.0
+    autor: Alberto de Souza
+    numero_paginas: '1232'
+    categoria: Biografia
+
+--- !ruby/object:Biblioteca
+livros:
+  247: !ruby/object:Livro
+    valor: 198.89
+    titulo: ''
+    desconto: 1.0
+    autor: Mauricio Aniche
+    numero_paginas: '123454'
+    categoria: Suspense
+  248: !ruby/object:Livro
+    valor: 53.21
+    titulo: ''
+    desconto: 1.0
+    autor: Tárcio Zemel
+    numero_paginas: '452565'
+    categoria: Biografia
+  249: !ruby/object:Livro
+    valor: 12.9
+    titulo: ''
+    desconto: 1.0
+    autor: Rogério Amaral
+    numero_paginas: '1111'
+    categoria: Suspense
+  250: !ruby/object:Livro
+    valor: 135.99
+    titulo: 5.0
+    desconto: 1.0
+    autor: Alberto de Souza
+    numero_paginas: '1232'
+    categoria: Biografia
+
+--- !ruby/object:Biblioteca
+livros:
+  247: !ruby/object:Livro
+    valor: 198.89
+    titulo: ''
+    desconto: 1.0
+    autor: Mauricio Aniche
+    numero_paginas: '123454'
+    categoria: Suspense
+  248: !ruby/object:Livro
+    valor: 53.21
+    titulo: ''
+    desconto: 1.0
+    autor: Tárcio Zemel
+    numero_paginas: '452565'
+    categoria: Biografia
+  249: !ruby/object:Livro
+    valor: 12.9
+    titulo: ''
+    desconto: 1.0
+    autor: Rogério Amaral
+    numero_paginas: '1111'
+    categoria: Suspense
+  250: !ruby/object:Livro
+    valor: 135.99
+    titulo: A Terra do Nunca
+    desconto: 5.0
+    autor: Alberto de Souza
+    numero_paginas: '1232'
+    categoria: Biografia
+
+--- !ruby/object:Biblioteca
+livros:
+  247: !ruby/object:Livro
+    valor: 198.89
+    titulo: ''
+    desconto: 1.0
+    autor: Mauricio Aniche
+    numero_paginas: '123454'
+    categoria: Suspense
+  248: !ruby/object:Livro
+    valor: 53.21
+    titulo: ''
+    desconto: 1.0
+    autor: Tárcio Zemel
+    numero_paginas: '452565'
+    categoria: Biografia
+  249: !ruby/object:Livro
+    valor: 12.9
+    titulo: ''
+    desconto: 1.0
+    autor: Rogério Amaral
+    numero_paginas: '1111'
+    categoria: Suspense
+  250: !ruby/object:Livro
+    valor: 135.99
+    titulo: A Terra do Nunca
+    desconto: 5.0
+    autor: Alberto de Souza
+    numero_paginas: '1232'
+    categoria: Biografia
+
